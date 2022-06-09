@@ -5,9 +5,9 @@
 </h1>
 
 ```
-IDE Utilizada <IDE>:
+# IDE Utilizada <IDE>:
 > Visual Studio Code
 
-Linguagem Utilizada <Language>:
+# Linguagem Utilizada <Language>:
 > Python 3.9
 ```
